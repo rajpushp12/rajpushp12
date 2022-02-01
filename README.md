@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **rajpushp64@gmail.com**
+- 📫 Reach me at **rajpushp64@gmail.com**
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/1YIU8wEpXuT0WohTukxPTfedw5la6OG3f/view?usp=sharing)
 
