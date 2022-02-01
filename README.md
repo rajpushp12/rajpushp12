@@ -1,6 +1,3 @@
-<h1 align="center">Pushp Raj</h1>
-<h3 align="center">Full-Stack Developer</h3>
-
 - 🌱 I’m currently learning **Java and Cloud**
 
 - 💬 Ask me about **Django**
