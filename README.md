@@ -1,4 +1,4 @@
-<h1 align="left">Hi 🖐, I'm Pushp Raj</h1>
+<h1 align="left">Hi 👋, I'm Pushp Raj</h1>
 
 [![Visits Badge](https://badges.pufler.dev/visits/rajpushp12/rajpushp12)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/rajpushp12)](https://badges.pufler.dev)
