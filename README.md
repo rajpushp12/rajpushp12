@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [Here](https://drive.google.com/file/d/13daZw3aDZCc1WAaKoJ6rfFhmiI_-zh0A/view?usp=sharing)
 
+- ⚡ Fun fact **I Love Driving**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajpushp12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajpushp12" height="30" width="40" /></a>
