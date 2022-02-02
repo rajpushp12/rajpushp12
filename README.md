@@ -1,3 +1,9 @@
+[![Visits Badge](https://badges.pufler.dev/visits/sanskar10100/sanskar10100)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/sanskar10100)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/sanskar10100)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/sanskar10100)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/sanskar10100)](https://badges.pufler.dev)
+
 - 🌱 I’m currently learning **Java and Cloud**
 
 - 💬 Ask me about **Django**
