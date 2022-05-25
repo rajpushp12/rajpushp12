@@ -3,7 +3,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/rajpushp12/rajpushp12)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/rajpushp12)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rajpushp12)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/rajpushp12)](https://badges.pufler.dev)
 
 
 - 🌱 I’m currently learning **Java and Cloud**
