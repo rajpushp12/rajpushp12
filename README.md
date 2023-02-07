@@ -1,7 +1,7 @@
 <h2 align="left">Hello Developers, I'm Pushp</h2>
 
 
-- 🌱 I’m currently learning **Java and Cloud**
+- 🌱 I’m currently with **Java Spring Boot and Microsoft Azure**
 
 - 💬 Ask me about **Django**
 
