@@ -1,13 +1,12 @@
-<h3 align="left">Hello! I'm Pushp, SDE Intern @ Bajaj Finserv</h3>
+<h3 align="left">Hello! I'm Pushp and I'm a SDE Intern @ Bajaj Finserv</h3>
 
 
 🌱 Developing and Deploying Microservices using **Java Spring Boot and Microsoft Azure**
 
-💬 Ask me about **Django and Open Source DevOps**
+💬 Ask me about **Django and Microsoft Azure**
 
 📫 Reach me at **rajpushp64@gmail.com**
 
-📄 Know about my experiences [Here](https://drive.google.com/file/d/1OjQZIIC5rel0Wfk43t5fxfqkahvDeze2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
