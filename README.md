@@ -1,4 +1,4 @@
-<h3 align="left">Hello! I'm Pushp and I'm a SDE Intern @ Bajaj Finserv</h3>
+<h3 align="left">Hello! I'm Pushp and I'm a Senior Software Engineer @ Bajaj Finserv</h3>
 
 
 🌱 Developing and Deploying Microservices using **Java Spring Boot and Microsoft Azure**
