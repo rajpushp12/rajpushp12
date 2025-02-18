@@ -1,11 +1,11 @@
 <h3 align="left">Hello! I'm Pushp and I'm a Senior Software Engineer @ Bajaj Finserv</h3>
 
 
-🌱 Developing and Deploying Microservices using **Java Spring Boot and Microsoft Azure**
+💡 Developing and Deploying Microservices using **Java Spring Boot and Microsoft Azure**
 
-💬 Ask me about **Java, React, Azure and Django**
+💬 Ask me about **Java, React, Azure, and Django**
 
-📫 Reach me at **rajpushp64@gmail.com**
+✉️ Reach me at **rajpushp64@gmail.com**
 
 
 <h5 align="left">Connect with me:</h5>
