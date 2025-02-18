@@ -3,7 +3,7 @@
 
 🌱 Developing and Deploying Microservices using **Java Spring Boot and Microsoft Azure**
 
-💬 Ask me about **Django and Microsoft Azure**
+💬 Ask me about **Java, React, Azure and Django**
 
 📫 Reach me at **rajpushp64@gmail.com**
 
